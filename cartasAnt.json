@@ -1,0 +1,193 @@
+{
+    "cartas": [
+      {
+        "id": 1,
+        "year": "600",
+        "yearShow": "600",
+        "title": "Ajedrez",
+        "description": "Ajedrez se inventó en 600 en la india",
+        "img": "ajedrez.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 2,
+        "year": "868",
+        "yearShow": "868",
+        "title": "Imprenta de libros",
+        "description": "La imprenta de libros se inventó en el 868",
+        "img": "imprenta-libros.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 3,
+        "year": "950",
+        "yearShow": "950",
+        "title": "Pólvora",
+        "description": "Pólvora se inventó en 950",
+        "img": "polvora.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 4,
+        "year": "1090",
+        "yearShow": "1090",
+        "title": "Brújula",
+        "description": "Se inventó en 1090 en China-Arabia",
+        "img": "brujula.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 5,
+        "year": "1624",
+        "yearShow": "1624",
+        "title":"Calculadora",
+        "description": "Calculadora se inventó en 1624 por Wilhelm Schickard",
+        "img": "calculadora.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 6,
+        "year": "1668",
+        "yearShow": "1668",
+        "title": "Telescopio reflector",
+        "description": "Telescopio reflector se invento en 1668 por Isaac Newton, Inglaterra",
+        "img": "telescopio-reflector.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 7,
+        "year": "1770",
+        "yearShow": "1770",
+        "title": "Automóvil",
+        "description": "Automovil se invento en Francia en el año 1770 por Nicholas Joseph Cugnot",
+        "img": "automovil.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 8,
+        "year": "1783",
+        "yearShow": "1783",
+        "title": "Globo de aire caliente",
+        "description": "El globo de aire caliente se invento en Francia en el 1783 por Joseph y Etienne Montgolfier",
+        "img": "globo-aire-caliente.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 9,
+        "year": "1796",
+        "yearShow": "1796",
+        "title": "Vacuna contra viruela",
+        "description": "La vacuna contra viruela se inventó en Inglaterra en el años 1796 por Edward Janner",
+        "img": "vacuna-viruela.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 10,
+        "year": "1839",
+        "yearShow": "1839",
+        "title": "Bicicleta",
+        "description": "La bicicleta se inventó en Inglaterra en 1839 por Kirk patrick MacMillian",
+        "img": "bicicleta.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 11,
+        "year": "-600000",
+        "yearShow": "600000 a.C.",
+        "title": "Fuego",
+        "description": "La utilización del fuego por mantenimiento",
+        "img": "fuego.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 12,
+        "year": "-250000",
+        "yearShow": "250.000 a.C.",
+        "title": "Hachas de mano",
+        "description": "Hacha de mano",
+        "img": "hachas.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 13,
+        "year": "1852",
+        "yearShow": "1852",
+        "title": "Giróscopo",
+        "description": "Se inventó en Francia en 1852 por Jean Bernard Leon Foucault",
+        "img": "polvora.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 14,
+        "year": "1907",
+        "yearShow": "1907",
+        "title": "Lavadora",
+        "description": "Se inventó en 1907",
+        "img": "lavadora.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 15,
+        "year": "1624",
+        "yearShow": "1624",
+        "title":"Sello de correos",
+        "description": "El Sello de correos se inventó en Inglaterra en 1840 por James Chalmers",
+        "img": "calculadora.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 16,
+        "year": "-45000",
+        "yearShow": "45000 a.C.",
+        "title": "Pintura rupestre",
+        "description": "Las primeras pinturas rupestres datan de 45000 a.C.",
+        "img": "telescopio-reflector.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 17,
+        "year": "-7500",
+        "yearShow": "7500 a.C.",
+        "title": "Barco de remos",
+        "description": "El primer barco de remos se construyó en el 7500 a.C.",
+        "img": "barco-remo.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 18,
+        "year": "-3000",
+        "yearShow": "3000 a.C.",
+        "title": "Yugo",
+        "description": "El Yugo en Mesopotamia",
+        "img": "yugo.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 19,
+        "year": "-3700",
+        "yearShow": "3700 a.C.",
+        "title": "Cosméticos",
+        "description": "Los cosméticos se inventaron en Equipo",
+        "img": "vacuna-viruela.png",
+        "details" : "detalles"
+      },
+      {
+        "id": 20,
+        "year": "650",
+        "yearShow": "650",
+        "title": "Molino de viento",
+        "description": "El primer molino de viento se construyó en Persia en el año 650",
+        "img": "bicicleta.png",
+        "details" : "detalles"
+      },      
+      {
+        "id": 21,
+        "year": "-5000",
+        "yearShow": "5000 a.C.",
+        "title": "Piedra de moler",
+        "description": "Fue utilizada por primera vez en Egipto y Mesopotamia en el 5000 a.C.",
+        "img": "piedra-moler.png",
+        "details" : "detalles"
+      }
+    ]
+  }

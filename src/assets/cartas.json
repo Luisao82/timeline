@@ -1,0 +1,425 @@
+{
+    "cartas":[
+    {
+      "id": 1,
+      "year": "-3000",
+      "yearShow": "3000 a.C.",
+      "title": "Rueda",
+      "description": "La rueda se inventó en Mesopotamia",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 2,
+      "year": "-2500",
+      "yearShow": "2500 a.C.",
+      "title": "Escritura Cuneiforme",
+      "description": "La escritura cuneiforme se inventó en Mesopotamia",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 3,
+      "year": "-2200",
+      "yearShow": "2200 a.C.",
+      "title": "Calendario Egipcio",
+      "description": "El calendario egipcio se inventó en Egipto",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 4,
+      "year": "-2000",
+      "yearShow": "2000 a.C.",
+      "title": "Arado",
+      "description": "El arado se inventó en Mesopotamia",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 5,
+      "year": "-1700",
+      "yearShow": "1700 a.C.",
+      "title": "Jarras de Barro Selladas",
+      "description": "Las jarras de barro selladas se inventaron en Mesopotamia",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 6,
+      "year": "-1600",
+      "yearShow": "1600 a.C.",
+      "title": "Lentes de Contacto",
+      "description": "Las lentes de contacto se inventaron en Egipto",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 7,
+      "year": "-1200",
+      "yearShow": "1200 a.C.",
+      "title": "Lámpara de Aceite",
+      "description": "La lámpara de aceite se inventó en Mesopotamia",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 8,
+      "year": "-500",
+      "yearShow": "500 a.C.",
+      "title": "Reloj de Agua",
+      "description": "El reloj de agua se inventó en Egipto",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 9,
+      "year": "-100",
+      "yearShow": "100 a.C.",
+      "title": "Papel",
+      "description": "QQQQQQQQQQQ",
+      "img": "papel.jpg",
+      "details": ""
+    },
+    {
+        "id": 10,
+        "year": "-100",
+        "yearShow": "100 a.C.",
+        "title": "Papel",
+        "description": "El papel se inventó en China",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 11,
+        "year": "1000",
+        "yearShow": "1000",
+        "title": "Brujula",
+        "description": "La brújula se inventó en China",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 12,
+        "year": "1100",
+        "yearShow": "1100",
+        "title": "Imprenta",
+        "description": "La imprenta se inventó en China",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 13,
+        "year": "1200",
+        "yearShow": "1200",
+        "title": "Lente Convexa",
+        "description": "La lente convexa se inventó en Asia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 14,
+        "year": "1300",
+        "yearShow": "1300",
+        "title": "Arma de Fuego",
+        "description": "El arma de fuego se inventó en China",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 15,
+        "year": "1400",
+        "yearShow": "1400",
+        "title": "Reloj Mecánico",
+        "description": "El reloj mecánico se inventó en Europa",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 16,
+        "year": "1500",
+        "yearShow": "1500",
+        "title": "Telescopio",
+        "description": "El telescopio se inventó en Holanda",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 17,
+        "year": "1600",
+        "yearShow": "1600",
+        "title": "Microscopio",
+        "description": "El microscopio se inventó en Holanda",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 18,
+        "year": "1700",
+        "yearShow": "1700",
+        "title": "Máquina a Vapor",
+        "description": "La máquina a vapor se inventó en Inglaterra",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 19,
+        "year": "1760",
+        "yearShow": "1760",
+        "title": "Máquina Textil",
+        "description": "La máquina textil se inventó en Inglater",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 20,
+        "year": "1776",
+        "yearShow": "1776",
+        "title": "Declaración de Independencia de Estados Unidos",
+        "description": "La Declaración de Independencia de Estados Unidos se redactó y firmó en Filadelfia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 21,
+        "year": "1783",
+        "yearShow": "1783",
+        "title": "Globo Aerostático",
+        "description": "El globo aerostático se inventó en Francia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 22,
+        "year": "1786",
+        "yearShow": "1786",
+        "title": "Máquina de Escribir",
+        "description": "La máquina de escribir se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 23,
+        "year": "1801",
+        "yearShow": "1801",
+        "title": "Maquina Analítica de Babbage",
+        "description": "La máquina analítica de Babbage se inventó en Inglaterra",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 24,
+        "year": "1804",
+        "yearShow": "1804",
+        "title": "Locomotora",
+        "description": "La locomotora se inventó en Inglaterra",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 25,
+        "year": "1808",
+        "yearShow": "1808",
+        "title": "Batería Eléctrica",
+        "description": "La batería eléctrica se inventó en Inglaterra",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 26,
+        "year": "1814",
+        "yearShow": "1814",
+        "title": "Telégrafo",
+        "description": "El telégrafo se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 27,
+        "year": "1820",
+        "yearShow": "1820",
+        "title": "Refrigeración",
+        "description": "La refrigeración se inventó en Inglaterra",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 28,
+        "year": "1830",
+        "yearShow": "1830",
+        "title": "Máquina de Coser",
+        "description": "La máquina de cose",
+        "img": "",
+        "details":""
+      },  {
+        "id": 41,
+        "year": "1876",
+        "yearShow": "1876",
+        "title": "Teléfono",
+        "description": "El teléfono se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 42,
+        "year": "1877",
+        "yearShow": "1877",
+        "title": "Fonógrafo",
+        "description": "El fonógrafo se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 43,
+        "year": "1879",
+        "yearShow": "1879",
+        "title": "Linterna Eléctrica",
+        "description": "La linterna eléctrica se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 44,
+        "year": "1882",
+        "yearShow": "1882",
+        "title": "Central Eléctrica",
+        "description": "La central eléctrica se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 45,
+        "year": "1885",
+        "yearShow": "1885",
+        "title": "Automóvil",
+        "description": "El automóvil se inventó en Alemania",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 46,
+        "year": "1886",
+        "yearShow": "1886",
+        "title": "Cámara de Rollo",
+        "description": "La cámara de rollo se inventó en Alemania",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 47,
+        "year": "1887",
+        "yearShow": "1887",
+        "title": "Proyector de Cine",
+        "description": "El proyector de cine se inventó en Francia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 48,
+        "year": "1888",
+        "yearShow": "1888",
+        "title": "Tarjeta Postal",
+        "description": "La tarjeta postal se inventó en Austria",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 49,
+        "year": "1889",
+        "yearShow": "1889",
+        "title": "Lápiz Mejorado",
+        "description": "El lápiz mejorado se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 51,
+        "year": "1890",
+        "yearShow": "1890",
+        "title": "Aspiradora",
+        "description": "La aspiradora se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 52,
+        "year": "1891",
+        "yearShow": "1891",
+        "title": "Helicóptero",
+        "description": "El helicóptero se inventó en Francia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 53,
+        "year": "1893",
+        "yearShow": "1893",
+        "title": "Maquina de Escribir Mejorada",
+        "description": "La máquina de escribir mejorada se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 54,
+        "year": "1895",
+        "yearShow": "1895",
+        "title": "Radio",
+        "description": "La radio se inventó en Italia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 55,
+        "year": "1896",
+        "yearShow": "1896",
+        "title": "Cine",
+        "description": "El cine se inventó en Francia",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 57,
+        "year": "1898",
+        "yearShow": "1898",
+        "title": "Lavadora Automática",
+        "description": "La lavadora automática se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 58,
+        "year": "1899",
+        "yearShow": "1899",
+        "title": "Televisión",
+        "description": "La televisión se inventó en Alemania",
+        "img": "",
+        "details": ""
+      },
+      {
+        "id": 59,
+        "year": "1901",
+        "yearShow": "1901",
+        "title": "Reloj Eléctrico",
+        "description": "El reloj eléctrico se inventó en Estados Unidos",
+        "img": "",
+        "details": ""
+      },
+      
+        { "id" : 60, "year":"1900", "yearShow":"1900", "title":"Cinematografo", "description":"Inventado por los hermanos Lumiere", "img":"cinematografo.jpg", "details":""},
+        { "id" : 61, "year":"1903", "yearShow":"1903", "title":"Avión", "description":"Inventado por los hermanos Wright", "img":"avion.jpg", "details":""},
+        { "id" : 62, "year":"1906", "yearShow":"1906", "title":"Radio", "description":"Inventado por Lee De Forest", "img":"radio.jpg", "details":""},
+        { "id" : 63, "year":"1908", "yearShow":"1908", "title":"Automóvil Model T", "description":"Inventado por Henry Ford", "img":"model_t.jpg", "details":""},
+        { "id" : 64, "year":"1913", "yearShow":"1913", "title":"Cinta transportadora", "description":"Inventada por Henry Ford", "img":"cinta_transportadora.jpg", "details":""},
+        { "id" : 65, "year":"1914", "yearShow":"1914", "title":"Teléfono móvil", "description":"Inventado por Ericsson", "img":"telefono_movil.jpg", "details":""},
+        { "id" : 66, "year":"1916", "yearShow":"1916", "title":"Refrigerador", "description":"Inventado por Fred W. Wolf", "img":"refrigerador.jpg", "details":""},
+        { "id" : 67, "year":"1919", "yearShow":"1919", "title":"Ondas Hertzianas", "description":"Descubiertas por Johannes Stark", "img":"ondas_hertzianas.jpg", "details":""},
+        { "id" : 68, "year":"1922", "yearShow":"1922", "title":"Televisión", "description":"Inventada por John Logie Baird", "img":"television.jpg", "details":""},
+        { "id" : 69, "year":"1923", "yearShow":"1923", "title":"Radiofonía", "description":"Inventada por Lee De Forest", "img":"radiofonia.jpg", "details":""},
+        { "id" : 70, "year":"1924", "yearShow":"1924", "title":"Ventilador eléctrico", "description":"Inventado por Schuyler Skaats Wheeler", "img":"ventilador_electrico.jpg", "details":""},
+        { "id" : 71, "year":"1926", "yearShow":"1926", "title":"Lavadora eléctrica", "description":"Inventada por Alva J. Fisher", "img":"lavadora_electrica.jpg", "details":""}
+      ]
+    }
+    
+    
+    
+  
